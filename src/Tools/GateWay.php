@@ -51,7 +51,7 @@ class GateWay
         $this->tbkFatory = $fatory;
     }
 
-    protected function send($method, array $params)
+    public function send($method, array $params)
     {
         //组装系统参数
         $sysParams["app_key"] = $this->globalConfig['appkey'];
