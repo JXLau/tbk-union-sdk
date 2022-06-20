@@ -1,12 +1,6 @@
 {
-  "name": "yumufeng/tbk-union-sdk",
+  "name": "jxlau/tbk-union-sdk",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "yumufeng",
-      "email": "admin@yumufeng.com"
-    }
-  ],
   "require": {
     "php": ">=7.0",
     "yumufeng/curl-swoole": "^1.0"
